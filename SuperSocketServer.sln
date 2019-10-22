@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SuperSocketEcho", "1.Supe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SuperSocketEchoClient", "1.SuperSocketEchoClient\1.SuperSocketEchoClient.csproj", "{04BB97D5-A476-4D6A-8063-17DE6D1F39D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SuperSockeChat", "2.SuperSockeChat\2.SuperSockeChat.csproj", "{FDE23091-BA6B-42F5-9207-4B127DF603B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SuperSockeChatClient", "2.SuperSockeChatClient\2.SuperSockeChatClient.csproj", "{C0136CE2-35EF-47BA-BC74-FD86D28B339A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{04BB97D5-A476-4D6A-8063-17DE6D1F39D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BB97D5-A476-4D6A-8063-17DE6D1F39D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BB97D5-A476-4D6A-8063-17DE6D1F39D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE23091-BA6B-42F5-9207-4B127DF603B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE23091-BA6B-42F5-9207-4B127DF603B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE23091-BA6B-42F5-9207-4B127DF603B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE23091-BA6B-42F5-9207-4B127DF603B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0136CE2-35EF-47BA-BC74-FD86D28B339A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0136CE2-35EF-47BA-BC74-FD86D28B339A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0136CE2-35EF-47BA-BC74-FD86D28B339A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0136CE2-35EF-47BA-BC74-FD86D28B339A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
